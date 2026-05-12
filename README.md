@@ -50,17 +50,6 @@ The dashboard was designed to:
 - Improve Tableau visualization and formatting skills
 - Create a portfolio-ready analytics project
 
----
-
-# 📷 Dashboard Preview
-
-_Add dashboard screenshot here_
-
----
-
-# 🔗 Tableau Public
-
-_Add Tableau Public link here_
 
 ---
 
